@@ -11,8 +11,6 @@
 # License:        MIT License
 #
 # Requirements:   Windows PowerShell, Python 3.7+, Administrator privileges
-# Repository:     https://github.com/[your-repo]
-# Contact:        [your-contact]
 #
 #
 ################################################################################
@@ -446,4 +444,5 @@ Start-Sleep -Seconds 3
 
 # Run the main Python program
 Write-Host "`nLaunching main application on port $mainport...`n" -ForegroundColor Yellow
+
 python .\serve.toml
