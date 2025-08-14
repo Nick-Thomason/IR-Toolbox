@@ -13,8 +13,8 @@
 #                 and Vulnerability Assessment reports
 #
 # Dependencies:   textual, rich, reportlab, pathlib
-# Repository:     https://github.com/[your-repo]
-# Contact:        [your-contact]
+# Repository:     https://github.com/Nick-Thomason/IR-Toolbox
+# Contact:        nicholas.s.thomason89@gmail.com
 #
 #                        UNCLASSIFIED//FOR OFFICIAL USE ONLY
 #
@@ -1241,4 +1241,5 @@ class SaveScreen(Screen):
 
 if __name__ == "__main__":
 	app = ReporterApp()
+
 	app.run()
