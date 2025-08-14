@@ -1,0 +1,93 @@
+Horizontal {
+    height: 4;
+    width: auto;
+}
+
+Horizontal > * {
+    margin-right: 1;
+}
+
+#main_label1 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label2 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label3 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label4 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label5 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label6 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label7 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label8 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label9 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label10 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label11 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
+#main_label12 {
+    width: 100%;
+    color: auto;
+    text-style: bold;
+    text-align: center;
+}
+
