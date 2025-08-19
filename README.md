@@ -8,7 +8,7 @@ An incident response toolbox designed to facilitate rapid, local communication b
 
 ## 🚀 Key Features
 
-- **Locally-hosted** with no external dependencies
+- **Locally-hosted** with no external applications
 - **Standardized military-style report generation** (PIR, SPOT, SITREP, RFC, AAR, Vulnerability)
 - **Built-in file server** for secure report sharing
 - **Portable deployment** - runs from any directory
@@ -112,7 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Nicholas Thomason**
 - Repository: [https://github.com/Nick-Thomason/IR-Toolbox](https://github.com/Nick-Thomason/IR-Toolbox)
-- Contact: [your-contact]
 
 ## ⚠️ Classification
 
